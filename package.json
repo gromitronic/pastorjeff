@@ -1,0 +1,12 @@
+{
+  "name": "pastorjeff-bot-webhook",
+  "version": "1.2.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "telegraf": "^4.16.3"
+  }
+}
